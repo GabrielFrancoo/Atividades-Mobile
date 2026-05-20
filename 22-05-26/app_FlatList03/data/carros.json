@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "nome": "Skyline GT-R",
+    "marca": "Nissan",
+    "potencia": "280cv",
+    "imagem": "skyline"
+  },
+  {
+    "id": "2",
+    "nome": "Supra MK4",
+    "marca": "Toyota",
+    "potencia": "320cv",
+    "imagem": "supra"
+  },
+  {
+    "id": "3",
+    "nome": "Mustang GT",
+    "marca": "Ford",
+    "potencia": "450cv",
+    "imagem": "mustang"
+  },
+  {
+    "id": "4",
+    "nome": "Lancer Evolution",
+    "marca": "Mitsubishi",
+    "potencia": "295cv",
+    "imagem": "lancer"
+  },
+  {
+    "id": "5",
+    "nome": "Civic Type R",
+    "marca": "Honda",
+    "potencia": "315cv",
+    "imagem": "civic"
+  },
+  {
+    "id": "6",
+    "nome": "Camaro SS",
+    "marca": "Chevrolet",
+    "potencia": "455cv",
+    "imagem": "camaro"
+  },
+  {
+    "id": "7",
+    "nome": "BMW M3",
+    "marca": "BMW",
+    "potencia": "473cv",
+    "imagem": "bmw"
+  },
+  {
+    "id": "8",
+    "nome": "Audi R8",
+    "marca": "Audi",
+    "potencia": "570cv",
+    "imagem": "audi"
+  },
+  {
+    "id": "9",
+    "nome": "Porsche 911",
+    "marca": "Porsche",
+    "potencia": "379cv",
+    "imagem": "porsche"
+  },
+  {
+    "id": "10",
+    "nome": "Ferrari F40",
+    "marca": "Ferrari",
+    "potencia": "478cv",
+    "imagem": "ferrari"
+  }
+]
